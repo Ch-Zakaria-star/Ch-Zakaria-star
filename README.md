@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm [Your Name]
+# Hey there! 👋 I'm Zakaria Chajia
 
 ### About Me 🚀
 I'm a final year engineering student at ENSA Tanger, with a passion for web development. I've focused on JavaScript, HTML, CSS, and frameworks like ReactJS and Node.js. Through internships and projects, I've gained valuable experience in building web applications.
